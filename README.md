@@ -1,1 +1,1 @@
-# projecr-nova-ai
+This project focuses on predicting house prices based on multiple property features using IBM Watsonx.ai Studio AutoAI. The model is trained on a housing dataset containing 545 records with 13 features such as area, number of bedrooms, bathrooms, stories, parking availability, and furnishing status. By leveraging AutoAI, the system automatically preprocesses the dataset, performs feature engineering, selects the best algorithms, and generates the most accurate machine learning pipeline.
